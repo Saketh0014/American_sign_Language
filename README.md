@@ -40,7 +40,6 @@ A very simple CNN project.
 There is no interactive interface, so you will need to figure out most of the usage yourself and make changes to scripts if needed. Here is a basic guide:
 
 ### Creating a gesture
-- Watch the video guide for setting the hand histogram.
 - First, set your hand histogram. You only need to do this if lighting conditions change. Run:
 
   ```
@@ -137,18 +136,4 @@ There is no interactive interface, so you will need to figure out most of the us
   - Text converts to speech when hand is removed from the green box.
   - Keep the same gesture for 15 frames for recognition.
 
-- Calculator Mode (press 'c' to switch):
-  - Confirm digit by holding gesture for 20 frames.
-  - Confirm number by making "best of luck" gesture for 25 frames.
-  - Supports multiple digits for first and second numbers.
-  - Operators:
-    - 1: '+'
-    - 2: '-'
-    - 3: '*'
-    - 4: '/'
-    - 5: '%'
-    - 6: '**'
-    - 7: '>>' (right shift)
-    - 8: '<<' (left shift)
-    - 9: '&' (bitwise AND)
-    - 0: '|' (bitwise OR)
+
