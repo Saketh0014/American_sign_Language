@@ -1,6 +1,6 @@
 # Sign-Language
 
-A very simple CNN project.
+A CNN project.
 
 ## What I did here
 - Created 44 gesture samples using OpenCV. For each gesture, 1200 grayscale images of 50x50 pixels were captured and stored in the gestures/ folder.
